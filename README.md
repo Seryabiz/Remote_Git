@@ -3,3 +3,7 @@ Details on how BMI is determined
 Weight(Kgs)
 Height(m)
 BMI = Weight/(Height*Height)
+It is easier to carry out changes in the README file on Bash
+
+
+Thank You
